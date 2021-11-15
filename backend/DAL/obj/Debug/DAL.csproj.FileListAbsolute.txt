@@ -1,0 +1,50 @@
+X:\שנה ב\פרויקטים\הודיה ואפרת\PROJECT\DAL\bin\Debug\DAL.dll
+X:\שנה ב\פרויקטים\הודיה ואפרת\PROJECT\DAL\bin\Debug\DAL.pdb
+X:\שנה ב\פרויקטים\הודיה ואפרת\PROJECT\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+X:\שנה ב\פרויקטים\הודיה ואפרת\PROJECT\DAL\obj\Debug\DAL.dll
+X:\שנה ב\פרויקטים\הודיה ואפרת\PROJECT\DAL\obj\Debug\DAL.pdb
+X:\שנה ב\פרויקטים\הודיה ואפרת\PROJECT\DAL\bin\Debug\DAL.dll.config
+X:\שנה ב\פרויקטים\הודיה ואפרת\PROJECT\DAL\bin\Debug\EntityFramework.dll
+X:\שנה ב\פרויקטים\הודיה ואפרת\PROJECT\DAL\bin\Debug\EntityFramework.SqlServer.dll
+X:\שנה ב\פרויקטים\הודיה ואפרת\PROJECT\DAL\bin\Debug\EntityFramework.xml
+X:\שנה ב\פרויקטים\הודיה ואפרת\PROJECT\DAL\bin\Debug\EntityFramework.SqlServer.xml
+G:\פרויקט הודיה ואפרת החדש\DAL\bin\Debug\DAL.dll.config
+G:\פרויקט הודיה ואפרת החדש\DAL\bin\Debug\DAL.dll
+G:\פרויקט הודיה ואפרת החדש\DAL\bin\Debug\DAL.pdb
+G:\פרויקט הודיה ואפרת החדש\DAL\bin\Debug\EntityFramework.xml
+G:\פרויקט הודיה ואפרת החדש\DAL\bin\Debug\EntityFramework.SqlServer.xml
+G:\פרויקט הודיה ואפרת החדש\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+G:\פרויקט הודיה ואפרת החדש\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+G:\פרויקט הודיה ואפרת החדש\DAL\obj\Debug\DAL.csproj.CopyComplete
+G:\פרויקט הודיה ואפרת החדש\DAL\obj\Debug\DAL.dll
+G:\פרויקט הודיה ואפרת החדש\DAL\obj\Debug\DAL.pdb
+F:\פרויקט הודיה ואפרת החדש\DAL\bin\Debug\DAL.dll.config
+F:\פרויקט הודיה ואפרת החדש\DAL\bin\Debug\DAL.dll
+F:\פרויקט הודיה ואפרת החדש\DAL\bin\Debug\DAL.pdb
+F:\פרויקט הודיה ואפרת החדש\DAL\obj\Debug\DAL.dll
+F:\פרויקט הודיה ואפרת החדש\DAL\obj\Debug\DAL.pdb
+F:\פרויקט הודיה ואפרת החדש\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\הודיה\Documents\פרויקט הודיה ואפרת החדש\DAL\bin\Debug\DAL.dll.config
+C:\Users\הודיה\Documents\פרויקט הודיה ואפרת החדש\DAL\bin\Debug\DAL.dll
+C:\Users\הודיה\Documents\פרויקט הודיה ואפרת החדש\DAL\bin\Debug\DAL.pdb
+C:\Users\הודיה\Documents\פרויקט הודיה ואפרת החדש\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\הודיה\Documents\פרויקט הודיה ואפרת החדש\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\הודיה\Documents\פרויקט הודיה ואפרת החדש\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\הודיה\Documents\פרויקט הודיה ואפרת החדש\DAL\obj\Debug\DAL.dll
+C:\Users\הודיה\Documents\פרויקט הודיה ואפרת החדש\DAL\obj\Debug\DAL.pdb
+C:\Users\הודיה\Documents\תכנות - פרויקטים\פרויקט הודיה ואפרת החדש\DAL\bin\Debug\DAL.dll.config
+C:\Users\הודיה\Documents\תכנות - פרויקטים\פרויקט הודיה ואפרת החדש\DAL\bin\Debug\DAL.dll
+C:\Users\הודיה\Documents\תכנות - פרויקטים\פרויקט הודיה ואפרת החדש\DAL\bin\Debug\DAL.pdb
+C:\Users\הודיה\Documents\תכנות - פרויקטים\פרויקט הודיה ואפרת החדש\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\הודיה\Documents\תכנות - פרויקטים\פרויקט הודיה ואפרת החדש\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\הודיה\Documents\תכנות - פרויקטים\פרויקט הודיה ואפרת החדש\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\הודיה\Documents\תכנות - פרויקטים\פרויקט הודיה ואפרת החדש\DAL\obj\Debug\DAL.dll
+C:\Users\הודיה\Documents\תכנות - פרויקטים\פרויקט הודיה ואפרת החדש\DAL\obj\Debug\DAL.pdb
+C:\Users\הודיה\Documents\gmar\פרויקט הודיה ואפרת החדש\DAL\bin\Debug\DAL.dll.config
+C:\Users\הודיה\Documents\gmar\פרויקט הודיה ואפרת החדש\DAL\bin\Debug\DAL.dll
+C:\Users\הודיה\Documents\gmar\פרויקט הודיה ואפרת החדש\DAL\bin\Debug\DAL.pdb
+C:\Users\הודיה\Documents\gmar\פרויקט הודיה ואפרת החדש\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\הודיה\Documents\gmar\פרויקט הודיה ואפרת החדש\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\הודיה\Documents\gmar\פרויקט הודיה ואפרת החדש\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\הודיה\Documents\gmar\פרויקט הודיה ואפרת החדש\DAL\obj\Debug\DAL.dll
+C:\Users\הודיה\Documents\gmar\פרויקט הודיה ואפרת החדש\DAL\obj\Debug\DAL.pdb

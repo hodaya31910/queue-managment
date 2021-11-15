@@ -1,0 +1,85 @@
+X:\שנה ב\פרויקטים\הודיה ואפרת\PROJECT\BL\obj\Debug\BL.csprojResolveAssemblyReference.cache
+X:\שנה ב\פרויקטים\הודיה ואפרת\PROJECT\BL\bin\Debug\BL.dll
+X:\שנה ב\פרויקטים\הודיה ואפרת\PROJECT\BL\bin\Debug\BL.pdb
+X:\שנה ב\פרויקטים\הודיה ואפרת\PROJECT\BL\bin\Debug\DAL.dll
+X:\שנה ב\פרויקטים\הודיה ואפרת\PROJECT\BL\bin\Debug\DTO.dll
+X:\שנה ב\פרויקטים\הודיה ואפרת\PROJECT\BL\bin\Debug\EntityFramework.dll
+X:\שנה ב\פרויקטים\הודיה ואפרת\PROJECT\BL\bin\Debug\DAL.pdb
+X:\שנה ב\פרויקטים\הודיה ואפרת\PROJECT\BL\bin\Debug\DTO.pdb
+X:\שנה ב\פרויקטים\הודיה ואפרת\PROJECT\BL\bin\Debug\EntityFramework.xml
+X:\שנה ב\פרויקטים\הודיה ואפרת\PROJECT\BL\obj\Debug\BL.dll
+X:\שנה ב\פרויקטים\הודיה ואפרת\PROJECT\BL\obj\Debug\BL.pdb
+X:\שנה ב\פרויקטים\הודיה ואפרת\PROJECT\BL\bin\Debug\AutoMapper.Attributes.dll
+X:\שנה ב\פרויקטים\הודיה ואפרת\PROJECT\BL\bin\Debug\AutoMapper.dll
+X:\שנה ב\פרויקטים\הודיה ואפרת\PROJECT\BL\bin\Debug\AutoMapper.xml
+G:\פרויקט הודיה ואפרת החדש\BL\bin\Debug\BL.dll
+G:\פרויקט הודיה ואפרת החדש\BL\bin\Debug\BL.pdb
+G:\פרויקט הודיה ואפרת החדש\BL\bin\Debug\AutoMapper.dll
+G:\פרויקט הודיה ואפרת החדש\BL\bin\Debug\DAL.dll
+G:\פרויקט הודיה ואפרת החדש\BL\bin\Debug\DTO.dll
+G:\פרויקט הודיה ואפרת החדש\BL\bin\Debug\DAL.pdb
+G:\פרויקט הודיה ואפרת החדש\BL\bin\Debug\DAL.dll.config
+G:\פרויקט הודיה ואפרת החדש\BL\bin\Debug\DTO.pdb
+G:\פרויקט הודיה ואפרת החדש\BL\bin\Debug\AutoMapper.xml
+G:\פרויקט הודיה ואפרת החדש\BL\bin\Debug\EntityFramework.xml
+G:\פרויקט הודיה ואפרת החדש\BL\obj\Debug\BL.csprojAssemblyReference.cache
+G:\פרויקט הודיה ואפרת החדש\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+G:\פרויקט הודיה ואפרת החדש\BL\obj\Debug\BL.csproj.CopyComplete
+G:\פרויקט הודיה ואפרת החדש\BL\obj\Debug\BL.dll
+G:\פרויקט הודיה ואפרת החדש\BL\obj\Debug\BL.pdb
+F:\פרויקט הודיה ואפרת החדש\BL\bin\Debug\BL.dll
+F:\פרויקט הודיה ואפרת החדש\BL\bin\Debug\BL.pdb
+F:\פרויקט הודיה ואפרת החדש\BL\bin\Debug\AutoMapper.dll
+F:\פרויקט הודיה ואפרת החדש\BL\bin\Debug\DAL.dll
+F:\פרויקט הודיה ואפרת החדש\BL\bin\Debug\DTO.dll
+F:\פרויקט הודיה ואפרת החדש\BL\bin\Debug\DAL.pdb
+F:\פרויקט הודיה ואפרת החדש\BL\bin\Debug\DTO.pdb
+F:\פרויקט הודיה ואפרת החדש\BL\bin\Debug\AutoMapper.xml
+F:\פרויקט הודיה ואפרת החדש\BL\obj\Debug\BL.dll
+F:\פרויקט הודיה ואפרת החדש\BL\obj\Debug\BL.pdb
+F:\פרויקט הודיה ואפרת החדש\BL\bin\Debug\DAL.dll.config
+F:\פרויקט הודיה ואפרת החדש\BL\obj\Debug\BL.csprojAssemblyReference.cache
+F:\פרויקט הודיה ואפרת החדש\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+F:\פרויקט הודיה ואפרת החדש\BL\obj\Debug\BL.csproj.CopyComplete
+C:\Users\הודיה\Documents\פרויקט הודיה ואפרת החדש\BL\bin\Debug\BL.dll
+C:\Users\הודיה\Documents\פרויקט הודיה ואפרת החדש\BL\bin\Debug\BL.pdb
+C:\Users\הודיה\Documents\פרויקט הודיה ואפרת החדש\BL\bin\Debug\AutoMapper.dll
+C:\Users\הודיה\Documents\פרויקט הודיה ואפרת החדש\BL\bin\Debug\DAL.dll
+C:\Users\הודיה\Documents\פרויקט הודיה ואפרת החדש\BL\bin\Debug\DTO.dll
+C:\Users\הודיה\Documents\פרויקט הודיה ואפרת החדש\BL\bin\Debug\DAL.pdb
+C:\Users\הודיה\Documents\פרויקט הודיה ואפרת החדש\BL\bin\Debug\DAL.dll.config
+C:\Users\הודיה\Documents\פרויקט הודיה ואפרת החדש\BL\bin\Debug\DTO.pdb
+C:\Users\הודיה\Documents\פרויקט הודיה ואפרת החדש\BL\bin\Debug\AutoMapper.xml
+C:\Users\הודיה\Documents\פרויקט הודיה ואפרת החדש\BL\obj\Debug\BL.csprojAssemblyReference.cache
+C:\Users\הודיה\Documents\פרויקט הודיה ואפרת החדש\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\הודיה\Documents\פרויקט הודיה ואפרת החדש\BL\obj\Debug\BL.csproj.CopyComplete
+C:\Users\הודיה\Documents\פרויקט הודיה ואפרת החדש\BL\obj\Debug\BL.dll
+C:\Users\הודיה\Documents\פרויקט הודיה ואפרת החדש\BL\obj\Debug\BL.pdb
+C:\Users\הודיה\Documents\תכנות - פרויקטים\פרויקט הודיה ואפרת החדש\BL\bin\Debug\BL.dll
+C:\Users\הודיה\Documents\תכנות - פרויקטים\פרויקט הודיה ואפרת החדש\BL\bin\Debug\BL.pdb
+C:\Users\הודיה\Documents\תכנות - פרויקטים\פרויקט הודיה ואפרת החדש\BL\bin\Debug\AutoMapper.dll
+C:\Users\הודיה\Documents\תכנות - פרויקטים\פרויקט הודיה ואפרת החדש\BL\bin\Debug\DAL.dll
+C:\Users\הודיה\Documents\תכנות - פרויקטים\פרויקט הודיה ואפרת החדש\BL\bin\Debug\DTO.dll
+C:\Users\הודיה\Documents\תכנות - פרויקטים\פרויקט הודיה ואפרת החדש\BL\bin\Debug\DAL.pdb
+C:\Users\הודיה\Documents\תכנות - פרויקטים\פרויקט הודיה ואפרת החדש\BL\bin\Debug\DAL.dll.config
+C:\Users\הודיה\Documents\תכנות - פרויקטים\פרויקט הודיה ואפרת החדש\BL\bin\Debug\DTO.pdb
+C:\Users\הודיה\Documents\תכנות - פרויקטים\פרויקט הודיה ואפרת החדש\BL\bin\Debug\AutoMapper.xml
+C:\Users\הודיה\Documents\תכנות - פרויקטים\פרויקט הודיה ואפרת החדש\BL\obj\Debug\BL.csprojAssemblyReference.cache
+C:\Users\הודיה\Documents\תכנות - פרויקטים\פרויקט הודיה ואפרת החדש\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\הודיה\Documents\תכנות - פרויקטים\פרויקט הודיה ואפרת החדש\BL\obj\Debug\BL.csproj.CopyComplete
+C:\Users\הודיה\Documents\תכנות - פרויקטים\פרויקט הודיה ואפרת החדש\BL\obj\Debug\BL.dll
+C:\Users\הודיה\Documents\תכנות - פרויקטים\פרויקט הודיה ואפרת החדש\BL\obj\Debug\BL.pdb
+C:\Users\הודיה\Documents\gmar\פרויקט הודיה ואפרת החדש\BL\bin\Debug\BL.dll
+C:\Users\הודיה\Documents\gmar\פרויקט הודיה ואפרת החדש\BL\bin\Debug\BL.pdb
+C:\Users\הודיה\Documents\gmar\פרויקט הודיה ואפרת החדש\BL\bin\Debug\AutoMapper.dll
+C:\Users\הודיה\Documents\gmar\פרויקט הודיה ואפרת החדש\BL\bin\Debug\DAL.dll
+C:\Users\הודיה\Documents\gmar\פרויקט הודיה ואפרת החדש\BL\bin\Debug\DTO.dll
+C:\Users\הודיה\Documents\gmar\פרויקט הודיה ואפרת החדש\BL\bin\Debug\DAL.pdb
+C:\Users\הודיה\Documents\gmar\פרויקט הודיה ואפרת החדש\BL\bin\Debug\DAL.dll.config
+C:\Users\הודיה\Documents\gmar\פרויקט הודיה ואפרת החדש\BL\bin\Debug\DTO.pdb
+C:\Users\הודיה\Documents\gmar\פרויקט הודיה ואפרת החדש\BL\bin\Debug\AutoMapper.xml
+C:\Users\הודיה\Documents\gmar\פרויקט הודיה ואפרת החדש\BL\obj\Debug\BL.csprojAssemblyReference.cache
+C:\Users\הודיה\Documents\gmar\פרויקט הודיה ואפרת החדש\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\הודיה\Documents\gmar\פרויקט הודיה ואפרת החדש\BL\obj\Debug\BL.csproj.CopyComplete
+C:\Users\הודיה\Documents\gmar\פרויקט הודיה ואפרת החדש\BL\obj\Debug\BL.dll
+C:\Users\הודיה\Documents\gmar\פרויקט הודיה ואפרת החדש\BL\obj\Debug\BL.pdb

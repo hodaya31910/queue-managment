@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="PARENTSModelStoreContainer" CdmEntityContainer="PARENTSEntities">
+    <EntitySetMapping Name="classes">
+      <EntityTypeMapping TypeName="PARENTSModel.classes">
+        <MappingFragment StoreEntitySet="classes">
+          <ScalarProperty Name="code" ColumnName="code" />
+          <ScalarProperty Name="class" ColumnName="class" />
+          <ScalarProperty Name="num_class" ColumnName="num_class" />
+          <ScalarProperty Name="id_teacher" ColumnName="id_teacher" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="instation">
+      <EntityTypeMapping TypeName="PARENTSModel.instation">
+        <MappingFragment StoreEntitySet="instation">
+          <ScalarProperty Name="code" ColumnName="code" />
+          <ScalarProperty Name="NAME" ColumnName="NAME" />
+          <ScalarProperty Name="password" ColumnName="password" />
+          <ScalarProperty Name="email" ColumnName="email" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="parents">
+      <EntityTypeMapping TypeName="PARENTSModel.parents">
+        <MappingFragment StoreEntitySet="parents">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="first_name" ColumnName="first_name" />
+          <ScalarProperty Name="last_name" ColumnName="last_name" />
+          <ScalarProperty Name="telefone" ColumnName="telefone" />
+          <ScalarProperty Name="email" ColumnName="email" />
+          <ScalarProperty Name="code_instation" ColumnName="code_instation" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="request">
+      <EntityTypeMapping TypeName="PARENTSModel.request">
+        <MappingFragment StoreEntitySet="request">
+          <ScalarProperty Name="code" ColumnName="code" />
+          <ScalarProperty Name="id_parent" ColumnName="id_parent" />
+          <ScalarProperty Name="from_hour" ColumnName="from_hour" />
+          <ScalarProperty Name="to_hour" ColumnName="to_hour" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="scheduling">
+      <EntityTypeMapping TypeName="PARENTSModel.scheduling">
+        <MappingFragment StoreEntitySet="scheduling">
+          <ScalarProperty Name="code" ColumnName="code" />
+          <ScalarProperty Name="id_student" ColumnName="id_student" />
+          <ScalarProperty Name="code_class" ColumnName="code_class" />
+          <ScalarProperty Name="hour_" ColumnName="hour_" />
+          <ScalarProperty Name="hour_reach" ColumnName="hour_reach" />
+          <ScalarProperty Name="hour_enter" ColumnName="hour_enter" />
+          <ScalarProperty Name="hour_exit" ColumnName="hour_exit" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="studens">
+      <EntityTypeMapping TypeName="PARENTSModel.studens">
+        <MappingFragment StoreEntitySet="studens">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="first_name" ColumnName="first_name" />
+          <ScalarProperty Name="last_name" ColumnName="last_name" />
+          <ScalarProperty Name="id_parent" ColumnName="id_parent" />
+          <ScalarProperty Name="code_class" ColumnName="code_class" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="teachers">
+      <EntityTypeMapping TypeName="PARENTSModel.teachers">
+        <MappingFragment StoreEntitySet="teachers">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="NAME" ColumnName="NAME" />
+          <ScalarProperty Name="telefone" ColumnName="telefone" />
+          <ScalarProperty Name="code_instation" ColumnName="code_instation" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="times">
+      <EntityTypeMapping TypeName="PARENTSModel.times">
+        <MappingFragment StoreEntitySet="times">
+          <ScalarProperty Name="code" ColumnName="code" />
+          <ScalarProperty Name="from_hour" ColumnName="from_hour" />
+          <ScalarProperty Name="to_hour" ColumnName="to_hour" />
+          <ScalarProperty Name="code_class" ColumnName="code_class" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="a1162810d456429e9c36e4ac39c1f8ce" Name="Diagram1">
+        <EntityTypeShape EntityType="PARENTSModel.classes" Width="1.5" PointX="5.25" PointY="6" IsExpanded="true" />
+        <EntityTypeShape EntityType="PARENTSModel.instation" Width="1.5" PointX="0.75" PointY="4.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="PARENTSModel.parents" Width="1.5" PointX="3" PointY="2.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="PARENTSModel.request" Width="1.5" PointX="5.25" PointY="2.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="PARENTSModel.scheduling" Width="1.5" PointX="9.75" PointY="2.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="PARENTSModel.studens" Width="1.5" PointX="7.5" PointY="2.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="PARENTSModel.teachers" Width="1.5" PointX="3" PointY="6.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="PARENTSModel.times" Width="1.5" PointX="7.5" PointY="6.25" IsExpanded="true" />
+        <AssociationConnector Association="PARENTSModel.FK__classes__id_teac__398D8EEE" ManuallyRouted="false" />
+        <AssociationConnector Association="PARENTSModel.FK__studens__code_cl__3A81B327" ManuallyRouted="false" />
+        <AssociationConnector Association="PARENTSModel.FK__times__code_clas__440B1D61" ManuallyRouted="false" />
+        <AssociationConnector Association="PARENTSModel.FK__parents__code_in__0EA330E9" ManuallyRouted="false" />
+        <AssociationConnector Association="PARENTSModel.FK__teachers__code_i__0519C6AF" ManuallyRouted="false" />
+        <AssociationConnector Association="PARENTSModel.FK__request__id_pare__3E52440B" ManuallyRouted="false" />
+        <AssociationConnector Association="PARENTSModel.FK__studens__id_pare__1367E606" ManuallyRouted="false" />
+        <AssociationConnector Association="PARENTSModel.FK__schedulin__id_st__412EB0B6" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

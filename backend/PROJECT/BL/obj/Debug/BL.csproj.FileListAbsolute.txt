@@ -1,0 +1,14 @@
+X:\שנה ב\פרויקטים\הודיה ואפרת\PROJECT\BL\obj\Debug\BL.csprojResolveAssemblyReference.cache
+X:\שנה ב\פרויקטים\הודיה ואפרת\PROJECT\BL\bin\Debug\BL.dll
+X:\שנה ב\פרויקטים\הודיה ואפרת\PROJECT\BL\bin\Debug\BL.pdb
+X:\שנה ב\פרויקטים\הודיה ואפרת\PROJECT\BL\bin\Debug\DAL.dll
+X:\שנה ב\פרויקטים\הודיה ואפרת\PROJECT\BL\bin\Debug\DTO.dll
+X:\שנה ב\פרויקטים\הודיה ואפרת\PROJECT\BL\bin\Debug\EntityFramework.dll
+X:\שנה ב\פרויקטים\הודיה ואפרת\PROJECT\BL\bin\Debug\DAL.pdb
+X:\שנה ב\פרויקטים\הודיה ואפרת\PROJECT\BL\bin\Debug\DTO.pdb
+X:\שנה ב\פרויקטים\הודיה ואפרת\PROJECT\BL\bin\Debug\EntityFramework.xml
+X:\שנה ב\פרויקטים\הודיה ואפרת\PROJECT\BL\obj\Debug\BL.dll
+X:\שנה ב\פרויקטים\הודיה ואפרת\PROJECT\BL\obj\Debug\BL.pdb
+X:\שנה ב\פרויקטים\הודיה ואפרת\PROJECT\BL\bin\Debug\AutoMapper.Attributes.dll
+X:\שנה ב\פרויקטים\הודיה ואפרת\PROJECT\BL\bin\Debug\AutoMapper.dll
+X:\שנה ב\פרויקטים\הודיה ואפרת\PROJECT\BL\bin\Debug\AutoMapper.xml

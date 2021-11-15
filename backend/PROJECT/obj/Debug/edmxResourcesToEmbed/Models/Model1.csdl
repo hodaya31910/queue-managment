@@ -1,0 +1,235 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="PARENTSModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="classes">
+    <Key>
+      <PropertyRef Name="code" />
+    </Key>
+    <Property Name="code" Type="Int32" Nullable="false" />
+    <Property Name="class" Type="String" MaxLength="20" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="num_class" Type="Int32" Nullable="false" />
+    <Property Name="id_teacher" Type="String" MaxLength="9" FixedLength="false" Unicode="true" Nullable="false" />
+    <NavigationProperty Name="teachers" Relationship="Self.FK__classes__id_teac__09DE7BCC" FromRole="classes" ToRole="teachers" />
+    <NavigationProperty Name="studens" Relationship="Self.FK__studens__code_cl__145C0A3F" FromRole="classes" ToRole="studens" />
+    <NavigationProperty Name="times" Relationship="Self.FK__times__code_clas__1920BF5C" FromRole="classes" ToRole="times" />
+  </EntityType>
+  <EntityType Name="instation">
+    <Key>
+      <PropertyRef Name="code" />
+    </Key>
+    <Property Name="code" Type="Int32" Nullable="false" />
+    <Property Name="NAME" Type="String" MaxLength="20" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="password" Type="Int32" Nullable="false" />
+    <Property Name="email" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="parents" Relationship="Self.FK__parents__code_in__0EA330E9" FromRole="instation" ToRole="parents" />
+    <NavigationProperty Name="teachers" Relationship="Self.FK__teachers__code_i__0519C6AF" FromRole="instation" ToRole="teachers" />
+  </EntityType>
+  <EntityType Name="parents">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="String" MaxLength="9" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="first_name" Type="String" MaxLength="20" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="last_name" Type="String" MaxLength="20" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="telefone" Type="String" MaxLength="10" FixedLength="false" Unicode="false" />
+    <Property Name="email" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="code_instation" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="instation" Relationship="Self.FK__parents__code_in__0EA330E9" FromRole="parents" ToRole="instation" />
+    <NavigationProperty Name="request" Relationship="Self.FK__request__id_pare__1DE57479" FromRole="parents" ToRole="request" />
+    <NavigationProperty Name="studens" Relationship="Self.FK__studens__id_pare__1367E606" FromRole="parents" ToRole="studens" />
+  </EntityType>
+  <EntityType Name="request">
+    <Key>
+      <PropertyRef Name="code" />
+    </Key>
+    <Property Name="code" Type="Int32" Nullable="false" />
+    <Property Name="id_parent" Type="String" MaxLength="9" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="from_hour" Type="Time" Nullable="false" Precision="7" />
+    <Property Name="to_hour" Type="Time" Nullable="false" Precision="7" />
+    <NavigationProperty Name="parents" Relationship="Self.FK__request__id_pare__1DE57479" FromRole="request" ToRole="parents" />
+  </EntityType>
+  <EntityType Name="scheduling">
+    <Key>
+      <PropertyRef Name="code" />
+    </Key>
+    <Property Name="code" Type="Int32" Nullable="false" />
+    <Property Name="id_student" Type="String" MaxLength="9" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="code_class" Type="Int32" Nullable="false" />
+    <Property Name="hour_" Type="Time" Nullable="false" Precision="7" />
+    <Property Name="hour_reach" Type="Time" Precision="7" />
+    <Property Name="hour_enter" Type="Time" Precision="7" />
+    <Property Name="hour_exit" Type="Time" Precision="7" />
+    <NavigationProperty Name="studens" Relationship="Self.FK__schedulin__hour___22AA2996" FromRole="scheduling" ToRole="studens" />
+  </EntityType>
+  <EntityType Name="studens">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="String" MaxLength="9" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="first_name" Type="String" MaxLength="20" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="last_name" Type="String" MaxLength="20" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="id_parent" Type="String" MaxLength="9" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="code_class" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="classes" Relationship="Self.FK__studens__code_cl__145C0A3F" FromRole="studens" ToRole="classes" />
+    <NavigationProperty Name="parents" Relationship="Self.FK__studens__id_pare__1367E606" FromRole="studens" ToRole="parents" />
+    <NavigationProperty Name="scheduling" Relationship="Self.FK__schedulin__hour___22AA2996" FromRole="studens" ToRole="scheduling" />
+  </EntityType>
+  <EntityType Name="teachers">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="String" MaxLength="9" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="NAME" Type="String" MaxLength="20" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="telefone" Type="String" MaxLength="10" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="code_instation" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="classes" Relationship="Self.FK__classes__id_teac__09DE7BCC" FromRole="teachers" ToRole="classes" />
+    <NavigationProperty Name="instation" Relationship="Self.FK__teachers__code_i__0519C6AF" FromRole="teachers" ToRole="instation" />
+  </EntityType>
+  <EntityType Name="times">
+    <Key>
+      <PropertyRef Name="code" />
+    </Key>
+    <Property Name="code" Type="Int32" Nullable="false" />
+    <Property Name="from_hour" Type="Time" Nullable="false" Precision="7" />
+    <Property Name="to_hour" Type="Time" Nullable="false" Precision="7" />
+    <Property Name="code_class" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="classes" Relationship="Self.FK__times__code_clas__1920BF5C" FromRole="times" ToRole="classes" />
+  </EntityType>
+  <Association Name="FK__classes__id_teac__09DE7BCC">
+    <End Role="teachers" Type="Self.teachers" Multiplicity="1" />
+    <End Role="classes" Type="Self.classes" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="teachers">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="classes">
+        <PropertyRef Name="id_teacher" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__studens__code_cl__145C0A3F">
+    <End Role="classes" Type="Self.classes" Multiplicity="1" />
+    <End Role="studens" Type="Self.studens" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="classes">
+        <PropertyRef Name="code" />
+      </Principal>
+      <Dependent Role="studens">
+        <PropertyRef Name="code_class" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__times__code_clas__1920BF5C">
+    <End Role="classes" Type="Self.classes" Multiplicity="1" />
+    <End Role="times" Type="Self.times" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="classes">
+        <PropertyRef Name="code" />
+      </Principal>
+      <Dependent Role="times">
+        <PropertyRef Name="code_class" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__parents__code_in__0EA330E9">
+    <End Role="instation" Type="Self.instation" Multiplicity="1" />
+    <End Role="parents" Type="Self.parents" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="instation">
+        <PropertyRef Name="code" />
+      </Principal>
+      <Dependent Role="parents">
+        <PropertyRef Name="code_instation" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__teachers__code_i__0519C6AF">
+    <End Role="instation" Type="Self.instation" Multiplicity="1" />
+    <End Role="teachers" Type="Self.teachers" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="instation">
+        <PropertyRef Name="code" />
+      </Principal>
+      <Dependent Role="teachers">
+        <PropertyRef Name="code_instation" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__request__id_pare__1DE57479">
+    <End Role="parents" Type="Self.parents" Multiplicity="1" />
+    <End Role="request" Type="Self.request" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="parents">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="request">
+        <PropertyRef Name="id_parent" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__studens__id_pare__1367E606">
+    <End Role="parents" Type="Self.parents" Multiplicity="1" />
+    <End Role="studens" Type="Self.studens" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="parents">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="studens">
+        <PropertyRef Name="id_parent" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__schedulin__hour___22AA2996">
+    <End Role="studens" Type="Self.studens" Multiplicity="1" />
+    <End Role="scheduling" Type="Self.scheduling" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="studens">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="scheduling">
+        <PropertyRef Name="id_student" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="PARENTSEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="classes" EntityType="Self.classes" />
+    <EntitySet Name="instation" EntityType="Self.instation" />
+    <EntitySet Name="parents" EntityType="Self.parents" />
+    <EntitySet Name="request" EntityType="Self.request" />
+    <EntitySet Name="scheduling" EntityType="Self.scheduling" />
+    <EntitySet Name="studens" EntityType="Self.studens" />
+    <EntitySet Name="teachers" EntityType="Self.teachers" />
+    <EntitySet Name="times" EntityType="Self.times" />
+    <AssociationSet Name="FK__classes__id_teac__09DE7BCC" Association="Self.FK__classes__id_teac__09DE7BCC">
+      <End Role="teachers" EntitySet="teachers" />
+      <End Role="classes" EntitySet="classes" />
+    </AssociationSet>
+    <AssociationSet Name="FK__studens__code_cl__145C0A3F" Association="Self.FK__studens__code_cl__145C0A3F">
+      <End Role="classes" EntitySet="classes" />
+      <End Role="studens" EntitySet="studens" />
+    </AssociationSet>
+    <AssociationSet Name="FK__times__code_clas__1920BF5C" Association="Self.FK__times__code_clas__1920BF5C">
+      <End Role="classes" EntitySet="classes" />
+      <End Role="times" EntitySet="times" />
+    </AssociationSet>
+    <AssociationSet Name="FK__parents__code_in__0EA330E9" Association="Self.FK__parents__code_in__0EA330E9">
+      <End Role="instation" EntitySet="instation" />
+      <End Role="parents" EntitySet="parents" />
+    </AssociationSet>
+    <AssociationSet Name="FK__teachers__code_i__0519C6AF" Association="Self.FK__teachers__code_i__0519C6AF">
+      <End Role="instation" EntitySet="instation" />
+      <End Role="teachers" EntitySet="teachers" />
+    </AssociationSet>
+    <AssociationSet Name="FK__request__id_pare__1DE57479" Association="Self.FK__request__id_pare__1DE57479">
+      <End Role="parents" EntitySet="parents" />
+      <End Role="request" EntitySet="request" />
+    </AssociationSet>
+    <AssociationSet Name="FK__studens__id_pare__1367E606" Association="Self.FK__studens__id_pare__1367E606">
+      <End Role="parents" EntitySet="parents" />
+      <End Role="studens" EntitySet="studens" />
+    </AssociationSet>
+    <AssociationSet Name="FK__schedulin__hour___22AA2996" Association="Self.FK__schedulin__hour___22AA2996">
+      <End Role="studens" EntitySet="studens" />
+      <End Role="scheduling" EntitySet="scheduling" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>
