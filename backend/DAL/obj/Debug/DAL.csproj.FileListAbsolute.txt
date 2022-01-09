@@ -48,3 +48,11 @@ C:\Users\הודיה\Documents\gmar\פרויקט הודיה ואפרת החדש\D
 C:\Users\הודיה\Documents\gmar\פרויקט הודיה ואפרת החדש\DAL\obj\Debug\DAL.csproj.CopyComplete
 C:\Users\הודיה\Documents\gmar\פרויקט הודיה ואפרת החדש\DAL\obj\Debug\DAL.dll
 C:\Users\הודיה\Documents\gmar\פרויקט הודיה ואפרת החדש\DAL\obj\Debug\DAL.pdb
+C:\Users\הודיה\Documents\sqmQueueManagment\backend\DAL\bin\Debug\DAL.dll.config
+C:\Users\הודיה\Documents\sqmQueueManagment\backend\DAL\bin\Debug\DAL.dll
+C:\Users\הודיה\Documents\sqmQueueManagment\backend\DAL\bin\Debug\DAL.pdb
+C:\Users\הודיה\Documents\sqmQueueManagment\backend\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\הודיה\Documents\sqmQueueManagment\backend\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\הודיה\Documents\sqmQueueManagment\backend\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\הודיה\Documents\sqmQueueManagment\backend\DAL\obj\Debug\DAL.dll
+C:\Users\הודיה\Documents\sqmQueueManagment\backend\DAL\obj\Debug\DAL.pdb

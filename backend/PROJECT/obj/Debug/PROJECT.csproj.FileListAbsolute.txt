@@ -291,3 +291,46 @@ C:\Users\הודיה\Documents\gmar\פרויקט הודיה ואפרת החדש\P
 C:\Users\הודיה\Documents\gmar\פרויקט הודיה ואפרת החדש\PROJECT\obj\Debug\PROJECT.csproj.CopyComplete
 C:\Users\הודיה\Documents\gmar\פרויקט הודיה ואפרת החדש\PROJECT\obj\Debug\PROJECT.dll
 C:\Users\הודיה\Documents\gmar\פרויקט הודיה ואפרת החדש\PROJECT\obj\Debug\PROJECT.pdb
+C:\Users\הודיה\Documents\sqmQueueManagment\backend\PROJECT\bin\roslyn\csc.exe
+C:\Users\הודיה\Documents\sqmQueueManagment\backend\PROJECT\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\הודיה\Documents\sqmQueueManagment\backend\PROJECT\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\הודיה\Documents\sqmQueueManagment\backend\PROJECT\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\הודיה\Documents\sqmQueueManagment\backend\PROJECT\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\הודיה\Documents\sqmQueueManagment\backend\PROJECT\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\הודיה\Documents\sqmQueueManagment\backend\PROJECT\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\הודיה\Documents\sqmQueueManagment\backend\PROJECT\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\הודיה\Documents\sqmQueueManagment\backend\PROJECT\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\הודיה\Documents\sqmQueueManagment\backend\PROJECT\bin\roslyn\vbc.exe
+C:\Users\הודיה\Documents\sqmQueueManagment\backend\PROJECT\bin\roslyn\VBCSCompiler.exe
+C:\Users\הודיה\Documents\sqmQueueManagment\backend\PROJECT\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\הודיה\Documents\sqmQueueManagment\backend\PROJECT\bin\PROJECT.dll.config
+C:\Users\הודיה\Documents\sqmQueueManagment\backend\PROJECT\bin\PROJECT.dll
+C:\Users\הודיה\Documents\sqmQueueManagment\backend\PROJECT\bin\PROJECT.pdb
+C:\Users\הודיה\Documents\sqmQueueManagment\backend\PROJECT\bin\BL.dll
+C:\Users\הודיה\Documents\sqmQueueManagment\backend\PROJECT\bin\DTO.dll
+C:\Users\הודיה\Documents\sqmQueueManagment\backend\PROJECT\bin\EntityFramework.dll
+C:\Users\הודיה\Documents\sqmQueueManagment\backend\PROJECT\bin\EntityFramework.SqlServer.dll
+C:\Users\הודיה\Documents\sqmQueueManagment\backend\PROJECT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\הודיה\Documents\sqmQueueManagment\backend\PROJECT\bin\Newtonsoft.Json.dll
+C:\Users\הודיה\Documents\sqmQueueManagment\backend\PROJECT\bin\System.Net.Http.Formatting.dll
+C:\Users\הודיה\Documents\sqmQueueManagment\backend\PROJECT\bin\System.Web.Http.dll
+C:\Users\הודיה\Documents\sqmQueueManagment\backend\PROJECT\bin\System.Web.Http.WebHost.dll
+C:\Users\הודיה\Documents\sqmQueueManagment\backend\PROJECT\bin\AutoMapper.dll
+C:\Users\הודיה\Documents\sqmQueueManagment\backend\PROJECT\bin\DAL.dll
+C:\Users\הודיה\Documents\sqmQueueManagment\backend\PROJECT\bin\BL.pdb
+C:\Users\הודיה\Documents\sqmQueueManagment\backend\PROJECT\bin\DTO.pdb
+C:\Users\הודיה\Documents\sqmQueueManagment\backend\PROJECT\bin\EntityFramework.xml
+C:\Users\הודיה\Documents\sqmQueueManagment\backend\PROJECT\bin\EntityFramework.SqlServer.xml
+C:\Users\הודיה\Documents\sqmQueueManagment\backend\PROJECT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\הודיה\Documents\sqmQueueManagment\backend\PROJECT\bin\Newtonsoft.Json.xml
+C:\Users\הודיה\Documents\sqmQueueManagment\backend\PROJECT\bin\System.Net.Http.Formatting.xml
+C:\Users\הודיה\Documents\sqmQueueManagment\backend\PROJECT\bin\System.Web.Http.xml
+C:\Users\הודיה\Documents\sqmQueueManagment\backend\PROJECT\bin\System.Web.Http.WebHost.xml
+C:\Users\הודיה\Documents\sqmQueueManagment\backend\PROJECT\bin\AutoMapper.xml
+C:\Users\הודיה\Documents\sqmQueueManagment\backend\PROJECT\bin\DAL.pdb
+C:\Users\הודיה\Documents\sqmQueueManagment\backend\PROJECT\bin\DAL.dll.config
+C:\Users\הודיה\Documents\sqmQueueManagment\backend\PROJECT\obj\Debug\PROJECT.csproj.AssemblyReference.cache
+C:\Users\הודיה\Documents\sqmQueueManagment\backend\PROJECT\obj\Debug\PROJECT.csproj.CoreCompileInputs.cache
+C:\Users\הודיה\Documents\sqmQueueManagment\backend\PROJECT\obj\Debug\PROJECT.csproj.CopyComplete
+C:\Users\הודיה\Documents\sqmQueueManagment\backend\PROJECT\obj\Debug\PROJECT.dll
+C:\Users\הודיה\Documents\sqmQueueManagment\backend\PROJECT\obj\Debug\PROJECT.pdb

@@ -78,3 +78,17 @@ C:\Users\הודיה\Documents\gmar\פרויקט הודיה ואפרת החדש\D
 C:\Users\הודיה\Documents\gmar\פרויקט הודיה ואפרת החדש\DTO\obj\Debug\DTO.csproj.CopyComplete
 C:\Users\הודיה\Documents\gmar\פרויקט הודיה ואפרת החדש\DTO\obj\Debug\DTO.dll
 C:\Users\הודיה\Documents\gmar\פרויקט הודיה ואפרת החדש\DTO\obj\Debug\DTO.pdb
+C:\Users\הודיה\Documents\sqmQueueManagment\backend\DTO\bin\Debug\DTO.dll
+C:\Users\הודיה\Documents\sqmQueueManagment\backend\DTO\bin\Debug\DTO.pdb
+C:\Users\הודיה\Documents\sqmQueueManagment\backend\DTO\bin\Debug\AutoMapper.Attributes.dll
+C:\Users\הודיה\Documents\sqmQueueManagment\backend\DTO\bin\Debug\AutoMapper.dll
+C:\Users\הודיה\Documents\sqmQueueManagment\backend\DTO\bin\Debug\DAL.dll
+C:\Users\הודיה\Documents\sqmQueueManagment\backend\DTO\bin\Debug\EntityFramework.dll
+C:\Users\הודיה\Documents\sqmQueueManagment\backend\DTO\bin\Debug\DAL.pdb
+C:\Users\הודיה\Documents\sqmQueueManagment\backend\DTO\bin\Debug\DAL.dll.config
+C:\Users\הודיה\Documents\sqmQueueManagment\backend\DTO\bin\Debug\AutoMapper.xml
+C:\Users\הודיה\Documents\sqmQueueManagment\backend\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+C:\Users\הודיה\Documents\sqmQueueManagment\backend\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\הודיה\Documents\sqmQueueManagment\backend\DTO\obj\Debug\DTO.csproj.CopyComplete
+C:\Users\הודיה\Documents\sqmQueueManagment\backend\DTO\obj\Debug\DTO.dll
+C:\Users\הודיה\Documents\sqmQueueManagment\backend\DTO\obj\Debug\DTO.pdb
